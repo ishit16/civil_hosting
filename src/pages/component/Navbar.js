@@ -138,8 +138,8 @@ const Navbar = () => {
             exploreDropdownVisible ? "visible" : "hidden"
           }`}
         >
-          <a href="/btr&dd">BTR & DD</a>
-          <a href="/internationexposer">Internation Exposer</a>
+          <a href="/btr&dd">BTP & DD</a>
+          <a href="/internationexposer">International Exposer</a>
           <a href="/higherstudies">Higher Studies</a>
         </div>
       </div>

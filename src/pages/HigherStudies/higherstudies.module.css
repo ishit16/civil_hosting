@@ -8,9 +8,13 @@
 }
 
 .highercontent_heading p{
-    font-size: 2rem;
+    font-size: 3rem;
     font-weight: 600;
     text-align: center;
+    background-image: radial-gradient(ellipse, #553c9a, #ee4b2b);
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
 }
 
 .highercontent_a {
@@ -39,12 +43,16 @@
 }
 
 .higherpeople_table {
-    margin-top: 2%;
+    margin-top: 3%;
 }
 
 .higherpeople_main_heading {
-    font-size: 1.6rem;
+    font-size: 1.8rem;
     font-weight: 600;
+    background-image: radial-gradient(ellipse, #553c9a, #ee4b2b);
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
 }
 
 .higherpeople_table_heading {

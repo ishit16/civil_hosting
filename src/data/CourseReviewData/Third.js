@@ -56,7 +56,7 @@ const third = [
   {
     "tag": 3,
     "Name:": "Akash Tanwar",
-    "Course Code": "CE 318",
+    "Course Code": "GS 318",
     "Expected Year of Graduation:": 2023,
     "Course Code and Name: (for eg. CE324-Engineering Law)": "GS 318 - Applied Geology for Civil Engineers",
     "Professor who took the course:": "Prof. Vikram Vishal",

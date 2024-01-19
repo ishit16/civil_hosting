@@ -21,7 +21,6 @@ import ShashankBlog from "./pages/InternationExposer/Component/ShashankBlog";
 import AlakhBlog from "./pages/Btp&dd/Component/AlakhBlog";
 import IshitaBlog from "./pages/Btp&dd/Component/IshitaBlog";
 import PintuBlog from "./pages/Btp&dd/Component/PintuBlog";
-import SwastiBlog from "./pages/Btp&dd/Component/SwastiBlog";
 import PraptiBlog from "./pages/Btp&dd/Component/PraptiBlog";
 
 function App() {
@@ -48,7 +47,6 @@ function App() {
           <Route exact path="/higherstudies" element={<HigherStudies />} />
           <Route exact path="/btr&dd" element={<Btpdd />} />
           <Route exact path="/praptiblog" element={<PraptiBlog />} />
-          <Route exact path="/swastiblog" element={<SwastiBlog />} />
           <Route exact path="/alakhblog" element={<AlakhBlog />} />
           <Route exact path="/ishitablog" element={<IshitaBlog />} />
           <Route exact path="/pintublog" element={<PintuBlog />} />

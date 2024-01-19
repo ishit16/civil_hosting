@@ -46,6 +46,9 @@ const Coursename = () => {
             })}
           </ul>
         </div>
+        <div>
+          <a href="/">More Course...</a>
+        </div>
       </div>
       
       <div className={style.review_container}>

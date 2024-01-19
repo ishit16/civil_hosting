@@ -146,7 +146,7 @@ const Second = [
        {
         "tag": 2,
         "Name:": "Ritu Raj",
-        "Course Code": "CE 235",
+        "Course Code": "CE 203",
         "Expected Year of Graduation:": 2026,
         "Course Code and Name: (for eg. CE324-Engineering Law)": "CE 203",
         "Professor who took the course:": "Arghadeep lashkar",
