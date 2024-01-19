@@ -29,7 +29,7 @@ const Explore = () => {
           <div className={style.explore_course_detail_background}>
             <p>BD</p>
           </div>
-          <p className={style.explore_course_text_a}>BTR & DD</p>
+          <p className={style.explore_course_text_a}>BTP & DD</p>
         </div>
         <div onClick={handleinternationsection} className={style.explore_course_container_detail}>
           <div className={style.explore_course_detail_background}>
